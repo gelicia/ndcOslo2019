@@ -1,5 +1,7 @@
 # ndcOslo2019
 
+Presentation slides are in `oslo2019.pdf`.
+
 ## Hardware
 The hardware code is for the Particle, and is under `/particle-examples/` 
 1. Pair a Particle Photon to your account [https://setup.particle.io/](https://setup.particle.io/)
